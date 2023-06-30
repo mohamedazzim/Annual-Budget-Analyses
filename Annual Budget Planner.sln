@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Annual Budget Planner", "Annual Budget Planner\Annual Budget Planner.csproj", "{338D85C8-1621-4DC3-B0FB-16D2585C0FAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{338D85C8-1621-4DC3-B0FB-16D2585C0FAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{338D85C8-1621-4DC3-B0FB-16D2585C0FAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{338D85C8-1621-4DC3-B0FB-16D2585C0FAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{338D85C8-1621-4DC3-B0FB-16D2585C0FAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal

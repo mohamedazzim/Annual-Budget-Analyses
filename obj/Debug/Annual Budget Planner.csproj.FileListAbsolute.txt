@@ -1,0 +1,12 @@
+C:\Users\azzim\documents\visual studio 2012\Projects\Annual Budget Planner\Annual Budget Planner\bin\Debug\Annual Budget Planner.exe
+C:\Users\azzim\documents\visual studio 2012\Projects\Annual Budget Planner\Annual Budget Planner\bin\Debug\Annual Budget Planner.exe.config
+C:\Users\azzim\documents\visual studio 2012\Projects\Annual Budget Planner\Annual Budget Planner\obj\Debug\Annual_Budget_Planner.Form1.resources
+C:\Users\azzim\documents\visual studio 2012\Projects\Annual Budget Planner\Annual Budget Planner\obj\Debug\Annual_Budget_Planner.Form2.resources
+C:\Users\azzim\documents\visual studio 2012\Projects\Annual Budget Planner\Annual Budget Planner\obj\Debug\Annual_Budget_Planner.Properties.Resources.resources
+C:\Users\azzim\documents\visual studio 2012\Projects\Annual Budget Planner\Annual Budget Planner\obj\Debug\Annual Budget Planner.csproj.GenerateResource.Cache
+C:\Users\azzim\documents\visual studio 2012\Projects\Annual Budget Planner\Annual Budget Planner\obj\Debug\Annual Budget Planner.exe
+C:\Users\azzim\documents\visual studio 2012\Projects\Annual Budget Planner\Annual Budget Planner\obj\Debug\Annual Budget Planner.pdb
+C:\Users\azzim\documents\visual studio 2012\Projects\Annual Budget Planner\Annual Budget Planner\bin\Debug\Annual Budget Planner.pdb
+C:\Users\azzim\documents\visual studio 2012\Projects\Annual Budget Planner\Annual Budget Planner\obj\Debug\Annual_Budget_Planner.Form3.resources
+C:\Users\azzim\documents\visual studio 2012\Projects\Annual Budget Planner\Annual Budget Planner\obj\Debug\Annual Budget Planner.csprojResolveAssemblyReference.cache
+C:\Users\azzim\Documents\Visual Studio 2012\Projects\Annual Budget Planner\Annual Budget Planner\obj\Debug\Annual_Budget_Planner.Form4.resources
